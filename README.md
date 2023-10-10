@@ -19,7 +19,7 @@ Este é um projeto simples que exibe a hora atual, a data e ajusta o fundo da p�
 <br>
 
 <p align="center">
-  <img alt="projeto FinCalc" src=".github/FinCalc.png" width="100%">
+  <img alt="projeto FinCalc" src=".github/WebTick.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
